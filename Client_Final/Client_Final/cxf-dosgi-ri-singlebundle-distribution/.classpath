@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry exported="true" kind="lib" path="cxf-dosgi-ri-singlebundle-distribution-1.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-transports-http-jetty-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/geronimo-javamail_1.4_spec-1.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xmlsec-1.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.bundles.wsdl4j-1.6.2_6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.bundles.xmlresolver-1.2_5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-databinding-aegis-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-frontend-simple-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-bindings-soap-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-dosgi-ri-discovery-distributed-1.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.osgi.enterprise-4.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xmlschema-core-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-jcl-1.6.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.specs.jaxws-api-2.1-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/pax-web-runtime-1.0.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.specs.saaj-api-1.3-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.felix.fileinstall-3.1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.felix.configadmin-1.2.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-dosgi-ri-dsw-cxf-1.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-dosgi-ri-discovery-local-1.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-frontend-jaxws-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.specs.jsr339-api-m10-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/geronimo-activation_1.1_spec-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.specs.jaxb-api-2.1-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-frontend-jaxrs-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-bindings-xml-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/stax2-api-3.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/geronimo-annotation_1.0_spec-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-transports-http-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/woodstox-core-asl-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/geronimo-servlet_3.0_spec-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.bundles.jdom-1.1.2_1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/geronimo-ws-metadata_2.0_spec-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-databinding-jaxb-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-rs-extension-providers-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.bundles.asm-3.3.1_1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.specs.stax-api-1.0-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.bundles.jaxb-impl-2.2.1.1_2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-core-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/zookeeper-3.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-all-server-7.4.2.v20110526.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-bundle-compatible-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.servicemix.bundles.commons-pool-1.5.4_1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neethi-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-api-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-dosgi-ri-topology-manager-1.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-ws-policy-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/pax-web-jetty-1.0.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

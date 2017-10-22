@@ -1,8 +1,6 @@
 package osgi_service;
 
-import java.util.Dictionary;
 import java.util.Hashtable;
-
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 import org.osgi.framework.ServiceRegistration;
@@ -11,18 +9,11 @@ import osgi_interface.Sikuli;
 
 public class Activator implements BundleActivator {
 
-	private static BundleContext context;
 	private ServiceRegistration registration;
 
-	static BundleContext getContext() {
-		return context;
-	}
-
 	public void start(BundleContext bundleContext) throws Exception {
-
-		Activator.context = bundleContext;
-
-		Dictionary props = new Hashtable();
+		
+		Hashtable<String, String> props = new Hashtable();
 
 		props.put("service.exported.interfaces", "*");
 		props.put("service.exported.configs", "org.apache.cxf.ws");
